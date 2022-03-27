@@ -1,4 +1,4 @@
-# binary-merge-tree
+# binary-search-tree
 # Binary-Search-Tree-Project
 Bu bir www.patika.dev ödevi.
 
